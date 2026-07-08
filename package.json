@@ -1,0 +1,10 @@
+{
+  "name": "ct-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Client demo website inspired by ct.com.au",
+  "scripts": {
+    "start": "node init && npx --yes serve -l 5173 .",
+    "dev": "node init && npx --yes serve -l 5173 ."
+  }
+}
